@@ -66,6 +66,7 @@
     "typescript": "^4.7.4"
   },
   "dependencies": {
+    "@openzeppelin/contracts": "^4.7.3",
     "bluebird": "^3.7.2",
     "config": "^3.3.7",
     "ethers": "^5.7.0",
